@@ -10,7 +10,7 @@
 					<div class="item-slide">
 						<img src="{{ asset('https://www.multicharge.com/img/articles/ipad-apps-for-business.png') }}" alt="" class="img-slide">
 						<div class="slide-info slide-1">
-							<h2 class="f-title">Kid Smart <b>Watches</b></h2>
+							<h2 class="f-title">Kids Smart <b>Watches</b></h2>
 							<span class="subtitle">Compra todos tus productos Smart por internet.</span>
 							<p class="sale-info">Only price: <span class="price">$59.99</span></p>
 							<a href="#" class="btn-link">Shop Now</a>
